@@ -1,7 +1,7 @@
 # **Trabalho Escolar 03 ~ Programação Orientada a Objetos (POO)🐻🍯** 
 ***1º Etapa do 3º Semestre do curso de informática integrado ao ensino médio***
 
- ![badge Status](https://img.shields.io/badge/Status-Em_desenvolvimento-hsl) ![badge Status](https://img.shields.io/badge/Linguaguem:-Java-hs1) ![badge Status](https://img.shields.io/badge/Ferramentas-Eclipse_&_Netbeans-hs1)
+ ![badge Status](https://img.shields.io/badge/Status-Concluído-hsl) ![badge Status](https://img.shields.io/badge/Linguaguem:-Java-hs1) ![badge Status](https://img.shields.io/badge/Ferramentas-Eclipse_&_Netbeans-hs1)
 ##
 ## PERFIS ENVOLVIDOS:
 ### *Professor:*
